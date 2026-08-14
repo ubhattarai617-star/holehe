@@ -233,9 +233,6 @@ Built for educational purposes only.
 | vrbo                | vrbo.com                               | register          | ✘               |
 | vsco                | vsco.co                                | register          | ✘               |
 | wattpad             | wattpad.com                            | register          | ✔               |
-| wordpress           | wordpress                              | login             | ✘               |
-| xing                | xing.com                               | register          | ✘               |
-| xnxx                | xnxx.com                               | register          | ✔               |
-| xvideos             | xvideos.com                            | register          | ✘               |
+| wordpress           | wordpress                              | login                                        
 | yahoo               | yahoo.com                              | login             | ✔               |
 | zoho                | zoho.com                               | login             | ✔               |
